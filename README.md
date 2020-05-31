@@ -1,5 +1,5 @@
 # mod2_solution
-My solution of Module 2....Menu
+My solution of Module 2(Menu).
 I have attached two more files.
 1]HTML file
 2]Style Sheet
