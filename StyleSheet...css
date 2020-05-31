@@ -71,24 +71,18 @@ p {
     background-color: rgba(233, 62, 62, 0.85);
     width: 100px;
     height: 20px;
-    /*position:relative;
-    left:93.3%;*/
    float:right;
 }
 .Beef #Items {
     background-color: rgba(225, 52, 124, 0.80);
     width: 55px;
     height: 20px;
-   /* position: relative;
-    left: 96.2%;*/
    float:right;
 }
 .Sushi #Items {
     background-color: rgba(226, 147, 22, 0.80);
     width: 65px;
     height: 20px;
-   /* position: relative;
-    left: 95.6%;*/
    float:right;
 }
 /*Simple Responsive Framework*/
